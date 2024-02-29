@@ -1,0 +1,35 @@
+{"intents":[
+  { "tag": "saudacao",
+    "patterns":["Ola","Opa","Oi", "tudo bem"],
+    "responses": ["Oi","Olá"]
+  },
+  { "tag": "despedida",
+    "patterns":["valeu","tchau","Obrigado","tks"],
+    "responses": ["Até breve","Falou"]
+  },
+  { "tag": "Sobre o PIPE",
+    "patterns":["O que é o PIPE?","Me fala sobre o PIPE", "O que seria o PIPE","O que é o projeto Pesquisa Inovativa em Pequenas Empresas"],
+    "responses": ["O Programa Pesquisa Inovativa em Pequenas Empresas da FAPESP destina-se a apoiar a execução de pesquisa científica e tecnológica em pequenas empresas no Estado de São Paulo. Seus objetivos são apoiar a pesquisa em ciência e tecnologia como instrumento para promover a inovação tecnológica e o desenvolvimento empresarial, aumentar a competitividade das pequenas empresas, possibilitar que as empresas se associem a pesquisadores do ambiente acadêmico em projetos de pesquisa visando à inovação tecnológica e contribuir para a formação e o desenvolvimento de núcleos de desenvolvimento tecnológico nas empresas e para o emprego de pesquisadores no mercado de trabalho empresarial criando uma cultura permanente de inovação."]
+  },
+  { "tag": "fases PIPE",
+    "patterns":["Quais são as fases do PIPE?","O projeto PIPE tem fases?", "Como funciona o PIPE"],
+    "responses": ["a) Fase 1: é destinada à verificação da viabilidade técnico-científica da proposta, (duração de até 9 meses e orçamento de até R$ 300.000, mais Reserva Técnica e Benefícios Complementares);\nb) Fase 2: destina-se à execução da pesquisa propriamente dita (duração de até 24 meses e orçamento de até R$ 1.500.000, mais Reserva Técnica e Benefícios Complementares);\nc) PIPE Invest: Aceleração da chegada ao mercado de Projetos da Fase 2, quando houver terceira parte interessada (duração de até 24 meses e orçamento de até R$ 1.500.000); e\nd) Fase 3: desenvolvimento comercial e industrial dos produtos, processos, sistemas e/ou serviços inovadores obtidos a partir de pesquisas anteriores realizadas pela pequena empresa sem o apoio da FAPESP ou a partir de pesquisa apoiada no âmbito do PIPE."]
+  },
+  { "tag": "empresa PIPE",
+    "patterns":["Preciso já ter uma empresas para aplicar para o PIPE?","Startups pode aplicar para o PIPE?", "Tenho uma empresas, posso submeter um PIPE?", "Minha empresa se enquadra ao PIEP?"],
+    "responses": ["A FAPESP analisa propostas de empresas ainda não constituídas. Empresas startup ainda não constituídas legalmente são incentivadas a submeter. Nos casos em que a proposta for recomendada, o proponente deverá então abrir formalmente a empresa antes da concessão da proposta.\n empresa com até 250 funcionários, independentemente do seu faturamento. A FAPESP considera empresa as sociedades empresárias previstas no Código Civil, o empresário individual, o microempreendedor individual (MEI), a sociedade limitada unipessoal e as sociedades simples. Associações, fundações, institutos e cooperativas não podem sediar um PIPE da FAPESP."]
+  },
+  { "tag": "quando solicitar PIPE",
+  "patterns":["Quando posso submeter um projeto PIPE?", "Quais são os períodos para subter um PIPE?"],
+  "responses": ["As propostas para o PIPE Fase 1, Fase 2 e PIPE Invest são recebidas em fluxo contínuo durante todo o ano."]
+  },
+  { "tag": "prioridade PIPE",
+  "patterns":[ "O PIPE tem áreas prioritŕias?"],
+  "responses": ["Não. O PIPE visa a apoiar pesquisas promissoras, com potencial de inovação, em qualquer área do conhecimento."]
+  },
+  { "tag": "avaliar PIPE",
+  "patterns":["Quem avalia as submissões do PIPE?", "Como é feia a avaliação?"],
+  "responses": ["A FAPESP seleciona especialistas das áreas de conhecimento envolvidas no projeto para avaliá-lo. Projetos PIPE Fase 1 são avaliados por pelo menos dois assessores e projetos Fase 2 são avaliados por pelo menos 3 assessores. A identidade dos assessores é mantida em confidencialidade pela FAPESP, como faz a maior parte das agências de financiamento à pesquisa no mundo. Os assessores emitem pareceres e a FAPESP os reúne em comitês de avaliação que debatem cada caso e elaboram um novo parecer sobre cada projeto. Com base em todos esses pareceres e em uma entrevista com os proponentes, a Coordenação de Área e a Coordenação Adjunta de Pesquisa para Inovação fazem uma recomendação final à Diretoria Científica que emite a decisão final."]
+  }
+]
+}
