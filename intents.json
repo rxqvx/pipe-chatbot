@@ -28,7 +28,7 @@
   "responses": ["As propostas para o PIPE Fase 1, Fase 2 e PIPE Invest são recebidas em fluxo contínuo durante todo o ano."]
   },
   { "tag": "prioridade PIPE",
-  "patterns":[ "O PIPE tem áreas prioritŕias?"],
+  "patterns":[ "O PIPE tem áreas prioritárias?"],
   "responses": ["Não. O PIPE visa a apoiar pesquisas promissoras, com potencial de inovação, em qualquer área do conhecimento."]
   },
   { "tag": "avaliar PIPE",
