@@ -16,7 +16,7 @@
     "responses": ["a) Fase 1: é destinada à verificação da viabilidade técnico-científica da proposta, (duração de até 9 meses e orçamento de até R$ 300.000, mais Reserva Técnica e Benefícios Complementares);\nb) Fase 2: destina-se à execução da pesquisa propriamente dita (duração de até 24 meses e orçamento de até R$ 1.500.000, mais Reserva Técnica e Benefícios Complementares);\nc) PIPE Invest: Aceleração da chegada ao mercado de Projetos da Fase 2, quando houver terceira parte interessada (duração de até 24 meses e orçamento de até R$ 1.500.000); e\nd) Fase 3: desenvolvimento comercial e industrial dos produtos, processos, sistemas e/ou serviços inovadores obtidos a partir de pesquisas anteriores realizadas pela pequena empresa sem o apoio da FAPESP ou a partir de pesquisa apoiada no âmbito do PIPE."]
   },
   { "tag": "participar PIPE",
-    "patterns":["Quem pode participar do PIPE?","Quem são as pessoas que podem participar do PIPE?","Regras de participação do PIPE"],
+    "patterns":["Quem pode participar do PIPE?","Quem são as pessoas que podem participar do PIPE?","Regras de participação do PIPE", "Quem pode submeter um PIPE?"],
     "responses": ["Empresas sediadas no Estado de São Paulo: O PIPE destina-se a apoiar a execução de pesquisa em pequenas empresas sediadas no Estado de São Paulo.Empresas ainda não constituídas: A FAPESP analisa propostas de empresas ainda não constituídas legalmente. Startups também são incentivadas a submeter propostas.Tamanho da empresa: Considera-se empresa aquelas com até 250 funcionários, independentemente do faturamento. Associações, fundações, institutos e cooperativas não podem sediar um PIPE da FAPESP."]
   },
   { "tag": "empresa PIPE",
@@ -32,11 +32,11 @@
   "responses": ["Não. O PIPE visa a apoiar pesquisas promissoras, com potencial de inovação, em qualquer área do conhecimento."]
   },
   { "tag": "avaliar PIPE",
-  "patterns":["Quem avalia as submissões do PIPE?", "Como é feia a avaliação?"],
+  "patterns":["Quem avalia as submissões do PIPE?", "Como é feia a avaliação?", "Quem avalia o PIPE?"],
   "responses": ["A FAPESP seleciona especialistas das áreas de conhecimento envolvidas no projeto para avaliá-lo. Projetos PIPE Fase 1 são avaliados por pelo menos dois assessores e projetos Fase 2 são avaliados por pelo menos 3 assessores. A identidade dos assessores é mantida em confidencialidade pela FAPESP, como faz a maior parte das agências de financiamento à pesquisa no mundo. Os assessores emitem pareceres e a FAPESP os reúne em comitês de avaliação que debatem cada caso e elaboram um novo parecer sobre cada projeto. Com base em todos esses pareceres e em uma entrevista com os proponentes, a Coordenação de Área e a Coordenação Adjunta de Pesquisa para Inovação fazem uma recomendação final à Diretoria Científica que emite a decisão final."]
   },
   { "tag": "emprestimo PIPE",
-  "patterns":["O dinheiro que o PIPE fornece é um empréstimo?"],
+  "patterns":["O dinheiro que o PIPE fornece é um empréstimo?", "Preciso devolver o dinheiro do PIPE?"],
   "responses": ["O apoio da FAPESP não é realizado na forma de empréstimo."]
   },
   { "tag": "partipacao PIPE",
@@ -44,7 +44,7 @@
   "responses": ["A FAPESP não recebe cotas da empresa."]
   },
   {"tag": "mais duvidas PIPE",
-  "patterns":["Onde posso encontrar mais informações sobre a FAPESP?", "Qual o site da FAPESP"],
+  "patterns":["Onde posso encontrar mais informações sobre a FAPESP?", "Qual o site da FAPESP","Onde posso ler mais sobre o PIPE?"],
   "responses": ["O site fapesp.br/pipe apresenta em detalhes o programa, incluindo o texto completo das normas e as chamadas vigentes."]
   }
 ]
