@@ -10,7 +10,7 @@ python main.py
 ```
 
 ## Demo
-[Watch video]([https://www.example.com](https://www.youtube.com/watch?v=Z4zW6SgEXcY))
+Watch vídeo [Watch video]([https://www.example.com](https://www.youtube.com/watch?v=Z4zW6SgEXcY))
 
 ## Contributors
 - Henrique Kenji 22.121.030-5
